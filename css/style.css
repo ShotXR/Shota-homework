@@ -1,0 +1,54 @@
+.header{
+    margin-top: 21px;
+    margin-left: 137px;
+}
+h2{
+    display: inline-block;
+}
+.home{
+    vertical-align: middle;
+    vertical-align: middle;
+    margin-right: 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.discovery{
+    vertical-align: middle;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.photo{
+    vertical-align: middle;
+    margin: 0px 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.contact{
+    vertical-align: middle;
+    margin-right: 29PX;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.surati{
+    vertical-align: middle;
+}
+.sec1{
+    height: 1165px;
+    width: 1500px;
+}
