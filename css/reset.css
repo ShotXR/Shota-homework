@@ -47,3 +47,10 @@ a{
 *{
     box-sizing: border-box;
 }
+li{
+	display: inline-block;
+	text-decoration: none;
+}
+nav{
+	display: inline-block;
+}

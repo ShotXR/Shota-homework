@@ -1,8 +1,11 @@
 .header{
     margin-top: 21px;
     margin-left: 137px;
+    position: fixed;
+    z-index: 100;
+    top: 0;
 }
-h2{
+a{
     display: inline-block;
 }
 .home{
@@ -46,9 +49,52 @@ h2{
     line-height: normal;
 }
 .surati{
+    display: inline-block;
     vertical-align: middle;
 }
 .sec1{
+    margin-top: 131px;
+    margin-left: 137px;
     height: 1165px;
     width: 1500px;
 }
+.satauri{
+    width: 120px;
+    margin-top: 84px;
+    margin-bottom: 54px;
+    margin-left: -130px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.img1{
+    margin-left: 137px;
+}
+.card {
+  
+   margin-top: 131px;
+   display: inline-block;
+   position: relative;
+} 
+ h2 {
+	color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%)
+}
+.card2 {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 131px;
+    display: inline-block;
+    position: relative;
+ } 
