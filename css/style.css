@@ -140,3 +140,64 @@ p{
 .svg{
     vertical-align: middle;
 }
+.footer{
+    background-color: #243043;
+}
+.foot-p{
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.foot-div1{
+    margin: 59px 96px 128px 137px ;
+    display: inline-block;
+}
+.foot-div2{
+    margin: 59px 118px 128px 0px;
+    display: inline-block;
+}
+.foot-div3{
+    display: inline-block;
+}
+.last-p{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    vertical-align: top;
+    display: inline-block;
+    margin: 59px 0px 128px 112px;
+}
+.pics-1{
+    margin-right: 45px;
+    width: 758px;
+    height: 908px;
+    margin-left: 138px;
+    display: inline-block;
+}
+.pics-2{
+    vertical-align: top;
+    display: inline-block;
+}
+.img2{
+    margin-bottom: 48px;
+    display: block;
+}
+.img3{
+    display: block;
+}
+.img4{
+    margin: 103px 0px;
+    display: block;
+}
+.img5{
+    display: block;
+}
+.sec-2Card{
+ position: relative;
+}
